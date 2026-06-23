@@ -1,8 +1,0 @@
-{
-    "compilerOptions": {},
-    "include": [
-        "models/**/*.js",
-        "infra/**/*.js",
-        "api/**/*.js"
-    ]
-}
